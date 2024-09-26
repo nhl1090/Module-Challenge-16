@@ -26,7 +26,6 @@ This project is licensed under the [MIT license](https://opensource.org/license/
 
 
 
-
 ## Contributing
 - [All Things JavaScript, LLC](https://www.youtube.com/watch?v=g4U5WRzHitM)
 - [Babel](https://babeljs.io/)
